@@ -1,2 +1,1 @@
-# FPGAAiKitChainX
-Advanced FPGAAiKitChainX project
+.
